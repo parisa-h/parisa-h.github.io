@@ -74,7 +74,7 @@ work:
     location: New York 
     date_start: 2019-09-30
     date_end: 2023-06-15
-    description: |2-
+    summary: |2-
       - Robust Multi-Agent Reinforcement Learning
       - Privacy-Preserving Generative Models
       - Stochastic Sequential Assignment for Fraud Detection
@@ -84,18 +84,17 @@ work:
     location: New York
     date_start: 2013-09-01
     date_end: 2019-09-30
-    description: |2-
+    summary: |2-
       - Scalable correlated content delivery over cache-aided broadcast networks
       - Distributed image classification with deep neural networks in bandwidth limited settings
       - Sectoring in multi-cell massive MIMO systems to combat pilot contamination
-
   - position: Research Intern   
     company_name: Alcatel-Lucent, Bell Labs
     company_url: ''
     location: New Jersey 
     date_start: 2015-06-01
     date_end: 2015-09-30
-    description: Correlation-aware content delivery in caching networks
+    summary: Correlation-aware content delivery in caching networks
 
 
 
