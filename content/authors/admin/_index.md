@@ -101,6 +101,6 @@ work:
 
 ---
 
-## About Me
+## About
 
 I'm a Senior ML Engineer at Meta Reality Labs working on developing large vision language models for Meta smart glasses. Prior to that I spent a few years as an AI researcher at Samsung and J.P. Morgan working on large language models, adversarial ML and reinforcement learning. I received my Ph.D. degree in the ECE Department at New York University, advised by Dr. Elza Erkip. My Ph.D. research was in information theory and wireless communications with an emphasis on caching for wireless video delivery, and applications for the next generation of cellular systems.
