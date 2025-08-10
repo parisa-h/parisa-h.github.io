@@ -2,11 +2,12 @@
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# https://docs.hugoblox.com/getting-started/customize/
 
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: blue
 
 # SEO
 marketing:
@@ -35,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Parisa Hassanzadeh"
 
 # Site footer
 footer:
@@ -58,3 +59,6 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  avatar:
+    gravatar: false
+    shape: circle
