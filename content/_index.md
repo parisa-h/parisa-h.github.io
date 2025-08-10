@@ -16,7 +16,12 @@ sections:
       text: ""
     design:
       background:
-        color: black
+        color: white
+  - block: experience
+    id: experience
+    content:
+      title: 'Experience'
+      columns: '2'
   - block: markdown
     content:
       title: '📚 My Research'
