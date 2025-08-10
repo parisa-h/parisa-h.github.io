@@ -69,7 +69,7 @@ work:
     summary: |
      Generative AI
   - position: AI Research Scientist
-    company: JPMorgan Chase & Co
+    company_name: JPMorgan Chase & Co
     company_url: ''
     location: New York 
     date_start: 2019-09-30
@@ -79,7 +79,7 @@ work:
       - Privacy-Preserving Generative Models
       - Stochastic Sequential Assignment for Fraud Detection
   - position: Graduate Research Assistant
-    company: New York University
+    company_name: New York University
     company_url: ''
     location: New York
     date_start: 2013-09-01
@@ -90,7 +90,7 @@ work:
       - Sectoring in multi-cell massive MIMO systems to combat pilot contamination
 
   - position: Research Intern   
-    company: Alcatel-Lucent, Bell Labs
+    company_name: Alcatel-Lucent, Bell Labs
     company_url: ''
     location: New Jersey 
     date_start: 2015-06-01
