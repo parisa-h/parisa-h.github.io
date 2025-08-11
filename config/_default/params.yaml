@@ -31,9 +31,11 @@ marketing:
 header:
   navbar:
     enable: true
+    align: "left"
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
+    show_search: false
+    show_theme_chooser: false
     show_theme_chooser: true
     logo:
       text: "Parisa Hassanzadeh"
