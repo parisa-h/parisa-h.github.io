@@ -31,9 +31,9 @@ sections:
     id: publications
     content:
       title: Selected Publications
-      # filters:
-      #   folders:
-      #     - publication
+      filters:
+        folders:
+          - publication
       #   exclude_featured: false
     design:
       view: citation
