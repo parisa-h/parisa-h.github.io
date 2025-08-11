@@ -3,9 +3,11 @@
 }
 
 .awards-list {
-  font-size: 0.9em; /* smaller text */
+  font-size: 0.8em; /* smaller text */
 }
 
-section[data-block-id="awards"] .container {
-  max-width: 80%;
+section#awards .container {
+  max-width: 100%;  /* removes width restriction */
+  padding-left: 1rem;          /* optional: add padding so text isn’t at the edge */
+  padding-right: 1rem;
 }
