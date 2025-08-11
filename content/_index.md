@@ -27,10 +27,24 @@ sections:
           - experience
     design:
       columns: '1'
+
+  - block: collection
+    id: experience2
+    content:
+      title: Experience2
+      filters:
+        folders:
+          - experience
+      sort_by: 'date'
+      sort_ascending: false
+    design:
+      columns: '1'
+      view: list
   - block: collection
     id: publications
     content:
       title: Selected Publications
+      count: 0
       filters:
         folders:
           - publication
