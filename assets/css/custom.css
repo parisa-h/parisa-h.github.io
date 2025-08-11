@@ -1,3 +1,11 @@
 .small-text {
   font-size: 0.9em;
 }
+
+.awards-list {
+  font-size: 0.9em; /* smaller text */
+}
+
+section[data-block-id="awards"] .container {
+  max-width: 80%;
+}
