@@ -98,8 +98,6 @@ work:
     date_end: 2015-09-30
     summary: Correlation-aware content delivery in caching networks
 
-
-
 ---
 
 ## About
