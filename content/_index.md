@@ -21,10 +21,11 @@ sections:
     id: experience
     content:
       title: Experience
-      date_format: Jan 2006
+      date_format: 'Jan 2006'
+    design:
       columns: '1'
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Selected Publications
       filters:
@@ -33,5 +34,4 @@ sections:
         featured_only: true
     design:
       view: citation
-      columns: '1'
 ---
