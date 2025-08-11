@@ -23,8 +23,8 @@ sections:
       title: Experience
       date_format: 'Jan 2006'
       filters:
-      folders:
-        - experience
+        folders:
+          - experience
     design:
       columns: '1'
   - block: collection
