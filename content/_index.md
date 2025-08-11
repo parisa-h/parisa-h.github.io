@@ -22,24 +22,8 @@ sections:
     content:
       title: Experience
       date_format: 'Jan 2006'
-      filters:
-        folders:
-          - experience
     design:
-      columns: '1'
-
-  - block: collection
-    id: experience2
-    content:
-      title: Experience2
-      filters:
-        folders:
-          - experience
-      sort_by: 'date'
-      sort_ascending: false
-    design:
-      columns: '1'
-      view: list
+      columns: '2'
   - block: collection
     id: publications
     content:
