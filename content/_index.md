@@ -34,4 +34,16 @@ sections:
       #   featured_only: true
     design:
       view: citation
+  - block: markdown
+    id: awards
+    content:
+      title: Honors and Awards
+      text: |-
+        - JPMorgan Innovation Award, JPMorgan Chase & Co., 2022
+        - Alexander Hessel Award for the Best Ph.D. Dissertation, ECE Department, NYU, 2020
+        - Class Representative for Tandon School of Engineering at the NYU Commencement, 2019
+        - David Goodman Research Award, ECE Department, New York University, 2019
+        - Student Leader Award, WoMentorship Program, NYU, 2019
+    design:
+      columns: '2'
 ---
