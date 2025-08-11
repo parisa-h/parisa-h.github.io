@@ -28,10 +28,10 @@ sections:
     id: publications
     content:
       title: Selected Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+      # filters:
+      #   folders:
+      #     - publication
+      #   featured_only: true
     design:
       view: citation
 ---
