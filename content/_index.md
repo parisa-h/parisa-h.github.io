@@ -31,7 +31,7 @@ sections:
       # filters:
       #   folders:
       #     - publication
-      #   featured_only: true
+      #   exclude_featured: false
     design:
       view: citation
   - block: markdown
@@ -44,5 +44,5 @@ sections:
         - David Goodman Research Award, ECE Department, New York University, 2019
         - Student Leader Award, WoMentorship Program, NYU, 2019
     design:
-      columns: '2'
+      columns: '1'
 ---
