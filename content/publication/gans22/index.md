@@ -1,8 +1,8 @@
 ---
-title: 'Generative Models with Information-Theoretic Protection Against Membership Inference Attack'
+title: Generative Models with Information-Theoretic Protection Against Membership Inference Attack
 authors:
-  - admin
-  - Robert Tillman
+- admin
+- Robert Tillman
 date: 2022-05-01
 publishDate: '2022-01-01T00:00:00Z'
 publication_types: 

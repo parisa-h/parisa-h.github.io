@@ -1,15 +1,11 @@
 ---
-title: 'Rate-Memory Trade-Off for Caching and Delivery of Correlated Sources'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: Rate-Memory Trade-Off for Caching and Delivery of Correlated Sources
 authors:
-  - admin
-  - Antonia Tulino
-  - Jaime Llorca
-  - Elza Erkip
-date: '2020-01-01T00:00:00Z'
+- admin
+- Antonia Tulino
+- Jaime Llorca
+- Elza Erkip
+date: 2020-01-01
 publishDate: '2020-01-01T00:00:00Z'
 publication_types: 
 - article-journal
