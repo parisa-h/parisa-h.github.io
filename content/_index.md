@@ -16,7 +16,7 @@ sections:
       text: ""
     design:
       background:
-        color: white
+        color: bg-light
   - block: experience
     id: experience
     content:
