@@ -70,6 +70,8 @@ work:
     date_end: 2024-10-01
     summary: |
      Generative AI
+      - Text-to-SQL AI assistant for  business analytics
+      - Uncertainty in LLMs: Leveraging uncertainty-aware reward models to guide curriculum learning
   - position: AI Research Scientist
     company_name: JPMorgan Chase & Co
     company_url: ''
