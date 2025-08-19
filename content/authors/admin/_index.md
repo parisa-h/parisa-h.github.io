@@ -59,7 +59,7 @@ work:
     date_start: 2024-10-01
     date_end: ''
     summary: |2-
-      Multimodal AI
+      Multimodal Generative AI
       - Large Vision Language Models on Smart Glasses (Ray-Ban Meta)
   - position: Senior AI Scientist
     company_name: Samsung SDS America
